@@ -4,10 +4,17 @@ Central repository organization for academic coursework, laboratory practicals, 
 
 ## Organization Repositories
 
+### Course Notes
 - [CS3043-Weekly-Notes](https://github.com/CS3043-Database-Systems/CS3043-Weekly-Notes): Comprehensive weekly lecture notes covering relational data models, SQL queries, normalization, transactions, concurrency, and database recovery.
-- [lab01](https://github.com/CS3043-Database-Systems/lab01): Laboratory 01 SQL schema initialization, data manipulation operations, and verified query solutions.
-- [lab02](https://github.com/CS3043-Database-Systems/lab02): Laboratory 02 relational queries, integrity constraints, and query execution verification.
-- **Laboratories & Assignments**: Subsequent laboratory deliverables, schema designs, and practical assignments will be maintained in dedicated repositories.
+
+### Laboratory Practicals
+- [lab00](https://github.com/CS3043-Database-Systems/lab00): Lab 00 — ER Modelling Foundations and Practice (conceptual ER-modelling, Chen/Crow's Foot notations, relational schema mapping).
+- [lab01](https://github.com/CS3043-Database-Systems/lab01): Lab 01 — SQL Fundamentals, Query Tracing and VPL Practice (database initialization, filtering, joins, and verification).
+- [lab02](https://github.com/CS3043-Database-Systems/lab02): Lab 02 — Aggregates, Subqueries and SQL Lab 2 Practice (aggregation functions, grouping, and nested queries).
+- [lab03](https://github.com/CS3043-Database-Systems/lab03): Lab 03 — Views, Outer Joins and Intermediate SQL (views abstraction, LEFT/RIGHT outer joins, and set operations).
+- [lab05](https://github.com/CS3043-Database-Systems/lab05): Lab 05 — Database Normalization, Functional Dependencies and BCNF (attribute closure, 1NF/2NF/3NF/BCNF decomposition, lossless-join verification).
+
+### Organization Workspace
 - [.github](https://github.com/CS3043-Database-Systems/.github): Organization profile and workspace configuration.
 
 ## Semester Group Project
