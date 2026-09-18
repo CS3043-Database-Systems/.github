@@ -1,11 +1,8 @@
 # CS3043 Database Systems
 
-Central repository organization for academic coursework, laboratory practicals, relational database design, and weekly notes for CS3043 Database Systems at the Department of Computer Science and Engineering, University of Moratuwa.
+Central repository organization for academic coursework, laboratory practicals, and relational database design for CS3043 Database Systems at the Department of Computer Science and Engineering, University of Moratuwa.
 
 ## Organization Repositories
-
-### Course Notes
-- [CS3043-Weekly-Notes](https://github.com/CS3043-Database-Systems/CS3043-Weekly-Notes): Comprehensive weekly lecture notes covering relational data models, SQL queries, normalization, transactions, concurrency, and database recovery.
 
 ### Laboratory Practicals
 - [lab00](https://github.com/CS3043-Database-Systems/lab00): Lab 00 — ER Modelling Foundations and Practice (conceptual ER-modelling, Chen/Crow's Foot notations, relational schema mapping).
@@ -21,10 +18,6 @@ Central repository organization for academic coursework, laboratory practicals, 
 
 The major database semester project (MedSync / CATMS - Clinical & Administrative Treatment Management System) is developed collaboratively by Group 07 in a dedicated organization:
 - [DataNexus (CS3043 DB G07)](https://github.com/datanexus-cs3043): Full-stack database application including Spring Boot 3 backend, React frontend, and centralized documentation.
-
-## Module Documentation
-
-Weekly learning notes are authored through Notion and synchronized to GitHub for long-term reference. The repository connects relational theoretical models with practical SQL execution, schema normalization, and database administration practices.
 
 ## Engineering & Git Standards
 
